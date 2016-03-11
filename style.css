@@ -1,0 +1,61 @@
+* {
+  background-color: gray;
+  font-family: sans-serif;
+}
+
+.main {
+  background-color: gray;
+}
+
+.header {
+  background-color: white;
+  text-align: center;
+  font-size: 2rem;
+  border: 3px solid blue;
+}
+
+h3 {
+  text-align: center;
+}
+
+.black-bg {
+  background: #000;
+}
+
+.red-text {
+  color: red;
+}
+
+.text-centered {
+  text-align: center;
+}
+
+img {
+  border-radius: 5px;
+}
+
+table {
+  margin-left: auto;
+  margin-right: auto;
+  border: 2px solid;
+  background-color: white;
+}
+
+
+
+
+.fire p {
+  text-align: center;
+  font-weight: 900;
+  font-size: 1.5em;
+}
+
+.fire ol {
+  font-size: 1.25em;
+  font-weight: 800
+}
+
+.fire li {
+  font-weight: 400;
+  font-size: .75em;
+}
